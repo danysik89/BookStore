@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: rgb(196, 196, 196)!important;
+  
+}
+
+.css-14kcwr6, .e1eb5iy50 {
+  display: none;
+}
+
+.mainBar {
+  background-color: rgb(221, 221, 221)!important;
+}
+
+.css-fdtpv0:hover, .css-fdtpv0:focus {
+  background-color: #c97d0b!important;
+}
+
+.css-fdtpv0 {
+  background-color: #f79400!important;
+  color: #fff;
+}
+
+.css-12dqk5i a {
+  margin: 7px 3px 3px 3px!important;
+}
+
+.css-14pyrcn {
+  font-size: 15px!important;
+  font-weight: bold;
+}
+
+.css-tuua3w .rheostat-progress {
+  background-color: #f79400!important;
+}
+
+.css-1nqnto3 svg.search-icon {
+  fill: #f79400!important;
+}
+
+.css-w1gpbi + label:hover {
+  color: #f79400!important;
+}
